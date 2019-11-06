@@ -1,0 +1,8 @@
+Copied verbatim (apart from adjusting the repository name in build_defs.bzl) from:
+https://github.com/google/iree/tree/9fb164c9c24c69052f6ba8295a318eaf6bfeb0d7/build_tools/embed_data
+
+I'm republishing this here to be able to use it from my own bazel projects.
+
+The original License applies:
+
+IREE is licensed under the terms of the Apache license. See LICENSE for more information.
